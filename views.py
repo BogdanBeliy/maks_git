@@ -1,0 +1,1 @@
+print('some views for project')
